@@ -1,11 +1,11 @@
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey!%20I'm%20nor1vin%20👋&fontSize=40&fontAlignY=35&desc=14-year-old%20developer%20from%20Scotland&descAlignY=60" 
   alt="Header Banner" 
-  width="100%">
+  width="100%" 
+  style="margin-bottom: -20px;"> 
 
 ## 👋 About Me
-Hi! I'm **nor1vin**, a 14-year-old who loves coding and lives in Scotland. I'm learning programming, building projects, and exploring new tech every day.  
-I enjoy taking on challenges and improving my skills.
+I'm **nor1vin**, a 14-year-old coder from Scotland. I love learning programming, building projects, and taking on new challenges.
 
 ## 🚀 My Stats
 
