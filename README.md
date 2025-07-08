@@ -15,13 +15,13 @@ I enjoy taking on challenges and improving my skills.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nor1vin&hide_border=true&theme=monokai&background=FFFFFF00" alt="GitHub Streak">
 </div>
 
-##  
+## ☎️ Contact Me
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://media.tenor.com/39c7_ZNzC4MAAAAi/silly-cat-silly.gif" height="100">
+        <img src="https://media.tenor.com/lTsyRIk-gc8AAAAi/dancing-om-nom.gif" height="100">
       </td>
       <td align="center">
         <h2>☎️ Contact Me</h2>
@@ -32,7 +32,7 @@ I enjoy taking on challenges and improving my skills.
         </p>
       </td>
       <td>
-        <img src="https://media.tenor.com/39c7_ZNzC4MAAAAi/silly-cat-silly.gif" height="100">
+        <img src="https://media.tenor.com/lTsyRIk-gc8AAAAi/dancing-om-nom.gif" height="100" style="transform: scaleX(-1);">
       </td>
     </tr>
   </table>
