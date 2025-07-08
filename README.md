@@ -7,9 +7,9 @@
 </div>
 
 
-## ☎️ Contact me via
+## ☎️ Contact me using
 
-- [Telegram Private Messages ](https://t.me/dmkjfs)
+- [Telegram Private Messages ](https://t.me/nor1vin)
 - [Telegram Channel](https://t.me/norv1n)
 - [Email](nor1vin.code@gmail.com)
 
