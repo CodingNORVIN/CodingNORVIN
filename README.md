@@ -1,13 +1,47 @@
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey!%20I'm%20nor1vin%20👋&fontSize=40&fontAlignY=35&desc=14-year-old%20developer%20from%20Scotland&descAlignY=60" 
-  alt="Header Banner" 
-  width="100%" 
-  style="margin-bottom: -20px;"> 
+<p align="center">
+  <img src="https://media.tenor.com/7NYN21Z4ABwAAAAM/rock-arguing.gif" alt="Rock arguing gif" width="150" height="150" style="margin: 0 10px;" />
+  <img src="https://media.tenor.com/5kAXHha0xCQAAAAM/rocky-rock.gif" alt="Rock speaking gif" width="150" height="150" style="margin: 0 10px;" />
+  <img src="https://media.tenor.com/1V9b8Eg0nHUAAAAM/dwayne-johnson-the-rock.gif" alt="Dwayne Johnson gif" width="150" height="150" style="margin: 0 10px;" />
+</p>
 
-## 👋 About Me
-I'm **nor1vin**, a 14-year-old coder from Scotland. I love learning programming, building projects, and taking on new challenges.
 
-## 🚀 My Stats
+
+## Hi, I'm nor1vin 👋
+- 🎂 **Age** - 14 
+- 🦄 **Region** - Scotland 
+- 🏉 **Hobbys** - Rugby , Gaming
+- ⚙️ **OS** - Win 10/11
+
+  
+## 🌑 Frontend Skills
+
+<p align="left">
+  <!--
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://mobx.js.org/assets/mobx.png" width="36" height="36" alt="MobX" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="36" height="36" alt="TailwindCSS" />
+  -->
+  Tech stack icons will be added here later.
+</p>
+
+
+
+## 🌑 Socials
+
+<p align="left">
+  <a href="https://t.me/yourusername" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="36" height="36" alt="Telegram" style="display:block" />
+  </a><a href="https://www.tiktok.com/@yourusername" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/96px-Tiktok_icon.svg.png?20240827133148" width="36" height="36" alt="TikTok" style="display:block" />
+  </a>
+</p>
+
+
+
+
+## 🌑 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nor1vin&show_icons=true&count_private=true&theme=monokai&hide_border=true&bg_color=00000000" alt="GitHub Stats">
@@ -15,30 +49,3 @@ I'm **nor1vin**, a 14-year-old coder from Scotland. I love learning programming,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nor1vin&hide_border=true&theme=monokai&background=FFFFFF00" alt="GitHub Streak">
 </div>
 
-## ☎️ Contact Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.tenor.com/lTsyRIk-gc8AAAAi/dancing-om-nom.gif" height="100">
-      </td>
-      <td align="center">
-        <h2>☎️ Contact Me</h2>
-        <p align="left">
-          - 📬 <a href="https://t.me/nor1vin" style="text-decoration: underline; color: inherit;">Telegram (Private Messages)</a><br>
-          - 📢 <a href="https://t.me/norv1n" style="text-decoration: underline; color: inherit;">Telegram Channel</a><br>
-          - 📧 <a href="mailto:nor1vin.code@gmail.com" style="text-decoration: underline; color: inherit;">E-mail</a>
-        </p>
-      </td>
-      <td>
-        <img src="https://media.tenor.com/lTsyRIk-gc8AAAAi/dancing-om-nom.gif" height="100" style="transform: scaleX(-1);">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" 
-  alt="Footer Banner" 
-  width="100%">
