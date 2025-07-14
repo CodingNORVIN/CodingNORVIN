@@ -5,13 +5,6 @@
 </p>
 
 
-
-## Hi, I'm nor1vin 🌑
-- 🎂 **Age** - 14 
-- 🦄 **Region** - Scotland 
-- 🏉 **Hobbys** - Rugby , Gaming
-- ⚙️ **OS** - Win 10/11
-
   
 ## 🌑 Frontend Skills
 
