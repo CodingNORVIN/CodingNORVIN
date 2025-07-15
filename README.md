@@ -11,18 +11,18 @@
 ## 🌑 Frontend Skills
 
 <!-- Icons for HTML5, CSS3, Sass -->
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a>
-</p>
+
+[![stack](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
+
 
 
 <!-- Additional Skills Section -->
 ## 🌑 Aditional Skills
 
 <!-- Icons for Photoshop, Figma, Illustrator, Linux -->
-<p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" title="Illustrator"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+
+[![stack](https://skillicons.dev/icons?i=figma,illustrator,linux,git)](https://skillicons.dev)
+
 
 <!-- Social Links -->
 ## 🌑 Socials
@@ -33,16 +33,16 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
     </picture>
   </a>
 
   <!-- Telegram -->
   <a href="https://t.me/nor1vin_perehodnik" target="_blank" rel="noreferrer" style="margin-left: 10px;">
     <img
-      src="https://github.com/user-attachments/assets/f49c4626-d271-400b-9d67-2928a6f83b7a"
-      width="32"
-      height="32"
+      src="https://github.com/user-attachments/assets/d8bccf85-7904-4a47-a310-6feafea92b00"
+      width="48"
+      height="48"
       alt="Telegram"
       title="Telegram"
     />
@@ -65,6 +65,4 @@
     <img src="https://img.shields.io/github/followers/nor1vin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
 </p>
-
-
 
