@@ -38,7 +38,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/yourchannelname" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+  <a href="https://t.me/nor1vin_perehodnik" target="_blank" rel="noreferrer" style="margin-left: 10px;">
     <img
       src="https://github.com/user-attachments/assets/f49c4626-d271-400b-9d67-2928a6f83b7a"
       width="32"
