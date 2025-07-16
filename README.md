@@ -21,7 +21,7 @@
 
 <!-- Icons for Photoshop, Figma, Illustrator, Linux -->
 
-[![stack](https://skillicons.dev/icons?i=figma,illustrator,linux,git)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=figma,linux,git)](https://skillicons.dev)
 
 
 <!-- Social Links -->
