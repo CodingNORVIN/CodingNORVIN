@@ -40,7 +40,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/nor1vin_perehodnik" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+  <a href="https://t.me/nor1vin_adapter" target="_blank" rel="noreferrer" style="margin-left: 10px;">
     <img
       src="https://github.com/user-attachments/assets/d8bccf85-7904-4a47-a310-6feafea92b00"
       width="48"
