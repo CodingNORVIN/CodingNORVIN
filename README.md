@@ -72,8 +72,13 @@
 <!-- Follower Count -->
 <p align="center">
   <a href="https://www.github.com/nor1vin" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/nor1vin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    <img src="https://img.shields.io/github/followers/nor1vin?logo=github&style=for-the-badge&color=fc9867&labelColor=272822" />
   </a>
 </p>
 
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nor1vin&style=for-the-badge&color=fc9867&label=Profile%20Views&labelColor=272822" />
+</p>
 
