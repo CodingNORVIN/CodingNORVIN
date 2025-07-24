@@ -24,6 +24,8 @@
 [![stack](https://skillicons.dev/icons?i=figma,linux,git)](https://skillicons.dev)
 
 
+
+
 <!-- Social Links -->
 ## 🌑 Socials
 
@@ -48,6 +50,13 @@
     />
   </a>
 </p>
+
+<!-- What Im Learning Section -->
+## 🌑 Rn Im Learning
+
+<!-- Icons for what im learning rn -->
+
+[![stack](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
 <!-- GitHub Stats -->
