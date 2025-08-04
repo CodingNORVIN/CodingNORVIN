@@ -56,7 +56,7 @@
 
 <!-- Icons for what im learning rn -->
 
-[![stack](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
 
 
 <!-- GitHub Stats -->
