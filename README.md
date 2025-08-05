@@ -8,11 +8,10 @@
 
  
 <!-- Frontend Skills Section -->
-<!--## 🌑 Frontend Skills--> 
-
+## 🌑 Frontend Skills (partial list)
 <!-- Icons for HTML5, CSS3, Sass -->
 
-<!--[![stack](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)--> 
+[![stack](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
 
 
 
@@ -21,7 +20,14 @@
 
 <!-- Icons for Photoshop, Figma, Illustrator, Linux -->
 
-[![stack](https://skillicons.dev/icons?i=figma,linux,git)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=linux,git,arch,)](https://skillicons.dev)
+
+## 🌑 Creative, Design & Productivity
+
+<!-- Icons for Photoshop, Figma, Illustrator, Linux -->
+
+[![stack](https://skillicons.dev/icons?i=figma,vscode,illustrator,obsidian,notion)](https://skillicons.dev)
+
 
 
 
