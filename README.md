@@ -8,11 +8,11 @@
 
  
 <!-- Frontend Skills Section -->
-## 🌑 Frontend Skills
+<!--## 🌑 Frontend Skills--> 
 
 <!-- Icons for HTML5, CSS3, Sass -->
 
-[![stack](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
+<!--[![stack](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)--> 
 
 
 
