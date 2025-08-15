@@ -1,4 +1,4 @@
-<!-- Centered images of The Rock gifs -->
+ <!-- Centered images of The Rock gifs -->
 
 <p align="center">
   <img src="https://media.tenor.com/7NYN21Z4ABwAAAAM/rock-arguing.gif" alt="Rock arguing gif" width="150" height="150" style="margin: 0 10px;" />
@@ -35,27 +35,39 @@
 <!-- Social Links -->
 ## 🌑 Socials
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <!-- GitHub -->
-  <a href="https://www.github.com/CodingNORVIN" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/CodingNORVIN" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" />
     </picture>
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/norvin_adapter" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+  <a href="https://t.me/norvin_adapter" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
     <img
       src="https://github.com/user-attachments/assets/d8bccf85-7904-4a47-a310-6feafea92b00"
       width="48"
       height="48"
       alt="Telegram"
-      title="Telegram"
+    />
+  </a>
+
+  <!-- TikTok -->
+  <a href="##########" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+    <img
+      src="https://github.com/user-attachments/assets/89e8adbc-cfb3-45d2-8a08-6d6ea574129b"
+      width="48"
+      height="48"
+      alt="TikTok"
     />
   </a>
 </p>
+
+
+
 
 <!-- What Im Learning Section -->
 ## 🌑 Rn Im Learning
