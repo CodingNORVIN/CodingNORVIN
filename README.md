@@ -46,7 +46,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/norvin_adapter" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+  <a href="https://t.me/nor1vinn" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
     <img
       src="https://github.com/user-attachments/assets/d8bccf85-7904-4a47-a310-6feafea92b00"
       width="48"
