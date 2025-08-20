@@ -8,15 +8,6 @@
 
 
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://t.me/CodingNORVIN" target="_blank">Hlib</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=14F719&center=true&vCenter=true&width=600&height=35&lines=You+can+see+my+projects+in+the+repositories" alt="Typing SVG" />
-  </a>
-</p>
-
-<h2 align="center">About me</h2>
 <h3 align="center">𝙸'𝚖 14 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍, 𝚏𝚛𝚘𝚖 Ukraine, 𝚊𝚗𝚍 𝚗𝚘𝚠 𝚕𝚒𝚟𝚒𝚗𝚐 𝚒𝚗 Scotland 𝚠𝚑𝚒𝚕𝚎 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚒𝚗 𝚜𝚌𝚑𝚘𝚘𝚕.</h3>
 
 
@@ -92,23 +83,20 @@
 <!-- GitHub Stats -->
 ## 🌑 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingNORVIN&show_icons=true&count_private=true&theme=monokai&hide_border=true&bg_color=00000000" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingNORVIN&layout=compact&langs_count=10&include_all_commits=true&hide_border=true&theme=monokai&bg_color=00000000" alt="Top Languages"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingNORVIN&hide_border=true&theme=monokai&background=FFFFFF00" alt="Top Languages"><br>
-
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodingNORVIN&theme=github_dark" alt=""/>
+    <img style="max-width: 100%;margin-right: 15px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodingNORVIN&theme=github_dark" alt=""/>
+     <img style="max-width: 100%;margin-top: 15px;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingNORVIN&theme=github_dark" alt=""/>
 </div>
 
-<!-- Follower Count -->
 <p align="center">
+  <!-- Follower Count -->
   <a href="https://www.github.com/CodingNORVIN" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/CodingNORVIN?logo=github&style=for-the-badge&color=fc9867&labelColor=272822" />
+    <img src="https://img.shields.io/github/followers/CodingNORVIN?logo=github&style=for-the-badge&color=808080&labelColor=333333" />
   </a>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=CodingNORVIN&style=for-the-badge&color=808080&label=Profile%20Views&labelColor=333333" />
 </p>
 
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodingNORVIN&style=for-the-badge&color=fc9867&label=Profile%20Views&labelColor=272822" />
-</p>
 
