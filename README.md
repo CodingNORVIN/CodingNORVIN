@@ -29,7 +29,7 @@
 
 <!-- Icons for Photoshop, Figma, Illustrator, Linux -->
 
-[![stack](https://skillicons.dev/icons?i=figma,vscode,illustrator,obsidian,notion)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=figma,illustrator,obsidian,notion)](https://skillicons.dev)
 
 
 
