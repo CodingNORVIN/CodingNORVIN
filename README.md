@@ -1,10 +1,24 @@
- <!-- Centered images of The Rock gifs -->
+<!-- Centered images of The Rock gifs -->
 
 <p align="center">
   <img src="https://media.tenor.com/7NYN21Z4ABwAAAAM/rock-arguing.gif" alt="Rock arguing gif" width="150" height="150" style="margin: 0 10px;" />
   <img src="https://media.tenor.com/5kAXHha0xCQAAAAM/rocky-rock.gif" alt="Rock speaking gif" width="150" height="150" style="margin: 0 10px;" />
   <img src="https://media.tenor.com/1V9b8Eg0nHUAAAAM/dwayne-johnson-the-rock.gif" alt="Dwayne Johnson gif" width="150" height="150" style="margin: 0 10px;" />
 </p>
+
+
+<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://t.me/CodingNORVIN" target="_blank">Hlib</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=14F719&center=true&vCenter=true&width=600&height=35&lines=You+can+see+my+projects+in+the+repositories" alt="Typing SVG" />
+  </a>
+</p>
+
+<h2 align="center">About me</h2>
+<h3 align="center">𝙸'𝚖 14 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍, 𝚏𝚛𝚘𝚖 Ukraine, 𝚊𝚗𝚍 𝚗𝚘𝚠 𝚕𝚒𝚟𝚒𝚗𝚐 𝚒𝚗 Scotland 𝚠𝚑𝚒𝚕𝚎 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚒𝚗 𝚜𝚌𝚑𝚘𝚘𝚕.</h3>
+
 
  
 <!--  Skills Section -->
