@@ -7,11 +7,9 @@
 </p>
 
  
-<!-- Frontend Skills Section -->
-## 🌑 Frontend Skills (partial list)
-<!-- Icons for HTML5, CSS3, Sass -->
+<!--  Skills Section -->
+## 🌑 Skills 
 
-[![stack](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
 
 
 
