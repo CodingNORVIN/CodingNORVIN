@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://t.me/CodingNORVIN" target="_blank">Hlib</a> 
+<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 <a href="https://t.me/CodingNORVIN" target="_blank">NORVIN</a> 
 <h3 align="center">𝙸'𝚖 14 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍, 𝚏𝚛𝚘𝚖 Ukraine, 𝚊𝚗𝚍 𝚗𝚘𝚠 𝚕𝚒𝚟𝚒𝚗𝚐 𝚒𝚗 Scotland 𝚠𝚑𝚒𝚕𝚎 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚒𝚗 𝚜𝚌𝚑𝚘𝚘𝚕.</h3>
 
 
